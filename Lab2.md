@@ -1,9 +1,6 @@
 # Lab Report: Experiment 2
 ## Docker Installation, Configuration, and Running Images
 
-**Date:** 2/2/2026 
-**Author:** Raghav Sharma
-
 ---
 
 ## 1. Objective
