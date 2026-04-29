@@ -293,4 +293,4 @@ Compose is best for **development**, while Swarm supports **production orchestra
 # Conclusion
 
 This experiment demonstrated container orchestration using Docker Swarm.  
-A multi-container WordPress application was deployed using a Compose file, scaled to multiple replicas, and tested for self-healing capabilities. Swarm provides built-in load balancing, automatic recovery, and cluster management, making it more suitable for production envir
+A multi-container WordPress application was deployed using a Compose file, scaled to multiple replicas, and tested for self-healing capabilities. Swarm provides built-in load balancing, automatic recovery, and cluster management, making it more suitable for production environment
