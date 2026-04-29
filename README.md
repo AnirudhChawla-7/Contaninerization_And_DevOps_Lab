@@ -10,7 +10,8 @@
 [Experiment-5](Lab5.md)  
 [Experiment-6](Lab6.md)    
 [Experiment-7](Lab7.md)  
-   
+[Experiment-9](Lab9.md)  
+[Experiment-10](Lab10.md)  
 
 ## Theory
 [Apache-Server](Apache_Server.md)
